@@ -1,0 +1,53 @@
+body
+{
+background-image:url(back.jpg);
+background-size:cover;
+}
+.paragraph{
+text-align:center;
+font-size:40px;
+font-family:inherit;
+}
+.menu-bar
+{
+text-align:center;
+background-color:#000000;
+}
+.menu-bar ul
+{
+display:inline-flex;
+color:white
+}
+.menu-bar ul li
+{
+font-family:Impact;
+width:120px;
+margin:15px;
+padding:15px;
+}
+.menu-bar ul li:hover
+{
+background:aqua;
+color:#000000;
+border-radius:3px;
+}
+.paragraph5{
+font-size:30px;
+font-family:ui-rounded;
+background-color:white;
+margin:20px;
+color:blue:
+}
+
+.lets-go-btn
+{
+color:floralwhite;
+background:rgb(227,26,26);
+text-decoration:none;
+text-transform:uppercase;
+font-weight:1000;
+letter-spacing:10px;
+border-radius:6px;
+padding:10px ;
+margin-left:-10px;
+}
